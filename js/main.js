@@ -313,7 +313,6 @@
 		});
    };	
 
- 
 
 	var ssBackToTop = function() {
 
@@ -338,7 +337,7 @@
   /* Initialize
 	* ------------------------------------------------------ */
 	(function ssInit() {
-
+		
 		ssPreloader();
 		ssFitVids();
 		ssMasonryFolio();
